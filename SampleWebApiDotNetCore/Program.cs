@@ -3,7 +3,7 @@ using SampleWebApiDotNetCore.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container. Gayathri
+// Add services to the container. Gayathri RSD
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
